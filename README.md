@@ -1,2 +1,2 @@
-# simplesms.github.io
-Simple SMS Documentation
+# Simple SMS Documentation
+http://docs.simplesms.id
